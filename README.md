@@ -2,7 +2,7 @@
 
 A clean, responsive user authentication system built with **React + Vite + Bootstrap 5**. Allows users to register, log in, view and securely edit their profile.
 
-**Live Demo**: https://your-username.github.io/your-repo-name (optional – add after deploy)
+**Live Demo**: https://reactaccount.vercel.app
 
 ## Features
 
